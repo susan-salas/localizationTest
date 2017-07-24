@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  TestLocalization
+
+  Created by Susan Salas on 7/17/17.
+  Copyright © 2017 Susan Salas. All rights reserved.
+*/
+
+"UIString" = "its working";
