@@ -1,5 +1,12 @@
 
 /* Class = "UILabel"; text = "Welcome"; ObjectID = "TmM-a9-NHa"; */
-"TmM-a9-NHa.text" = "Bienvenido";
+"TmM-a9-NHa.text" = "Bienvenidos";
 
+/* Class = "UILabel"; text = "Hello World"; ObjectID = "WVF-WK-pdf"; */
+"WVF-WK-pdf.text" = "Hola Mundo";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "rl1-li-IgS"; */
+"rl1-li-IgS.normalTitle" = "Cambios";
+
+/* Class = "UIButton"; normalTitle = "translation"; ObjectID = "z7j-ex-2aX"; */
 "z7j-ex-2aX.normalTitle" = "traduccion";
